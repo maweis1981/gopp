@@ -18,7 +18,7 @@ class companyinfo(models.Model):
 
 
 class gameinfo(models.Model):
-    cinfo = models.ForeignKey(companyinfo,verbose_name="游戏信息")
+    cinfo = models.ForeignKey(companyinfo)
     gamename = models.CharField("游戏名称",max_length=50) #游戏名
     gcreatedate = models.DateTimeField('date published') #创建时间
     gameid = models.CharField("游戏ID",max_length=10,primary_key=True) ##游戏ID

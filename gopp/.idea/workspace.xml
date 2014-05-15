@@ -26,19 +26,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="models.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/phonegame/models.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="28" selection-start="1171" selection-end="1171" vertical-scroll-proportion="0.7567568" vertical-offset="155" max-vertical-offset="525">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="urls.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gopp/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="46" selection-start="292" selection-end="292" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="285">
+            <state line="14" column="20" selection-start="358" selection-end="358" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="330">
               <folding />
             </state>
           </provider>
@@ -65,27 +56,36 @@
       <file leaf-file-name="admin.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/phonegame/admin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="0" selection-start="812" selection-end="812" vertical-scroll-proportion="0.0" vertical-offset="185" max-vertical-offset="555">
-              <folding>
-                <element signature="e#54#86#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="settings.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gopp/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="81" column="0" selection-start="2371" selection-end="2371" vertical-scroll-proportion="0.0" vertical-offset="1323" max-vertical-offset="1680">
+            <state line="24" column="0" selection-start="812" selection-end="812" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="555">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="views.py" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="__init__.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/phonegame/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/phonegame/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="36" selection-start="158" selection-end="158" vertical-scroll-proportion="0.0" vertical-offset="20" max-vertical-offset="390">
+            <state line="23" column="22" selection-start="889" selection-end="889" vertical-scroll-proportion="0.4703833" vertical-offset="75" max-vertical-offset="1020">
+              <folding>
+                <element signature="e#54#89#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/Django-1.6.4-py2.7.egg/django/core/handlers/base.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="113" column="0" selection-start="4537" selection-end="4537" vertical-scroll-proportion="0.0" vertical-offset="1695" max-vertical-offset="4440">
               <folding />
             </state>
           </provider>
@@ -94,7 +94,7 @@
       <file leaf-file-name="urls.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/phonegame/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="72" selection-end="72" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
+            <state line="4" column="26" selection-start="99" selection-end="99" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="210">
               <folding />
             </state>
           </provider>
@@ -111,20 +111,20 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/polls/admin.py" />
-        <option value="$PROJECT_DIR$/gopp/urls.py" />
         <option value="$PROJECT_DIR$/polls/urls.py" />
         <option value="$PROJECT_DIR$/polls/models.py" />
         <option value="$PROJECT_DIR$/polls/views.py" />
-        <option value="$PROJECT_DIR$/phonegame/urls.py" />
-        <option value="$PROJECT_DIR$/phonegame/views.py" />
         <option value="$PROJECT_DIR$/gopp/settings.py" />
         <option value="$PROJECT_DIR$/phonegame/admin.py" />
+        <option value="$PROJECT_DIR$/gopp/urls.py" />
+        <option value="$PROJECT_DIR$/phonegame/urls.py" />
         <option value="$PROJECT_DIR$/phonegame/models.py" />
+        <option value="$PROJECT_DIR$/phonegame/views.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="82" />
+    <option name="x" value="165" />
     <option name="y" value="22" />
     <option name="width" value="1073" />
     <option name="height" value="743" />
@@ -155,7 +155,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -208,17 +207,18 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="options.searchVisible" value="true" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -315,7 +315,27 @@
       <option name="PARAMETERS" value="" />
       <method />
     </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+    <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="gopp" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
@@ -341,27 +361,7 @@
       <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="gopp" />
-      <option name="launchJavascriptDebuger" value="false" />
-      <option name="port" value="8000" />
-      <option name="host" value="" />
-      <option name="additionalOptions" value="" />
-      <option name="browserUrl" value="" />
-      <option name="runTestServer" value="false" />
-      <option name="runNoReload" value="false" />
-      <option name="useCustomRunCommand" value="false" />
-      <option name="customRunCommand" value="" />
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Doctests">
@@ -489,19 +489,19 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="82" y="22" width="1073" height="743" extended-state="0" />
-    <editor active="false" />
+    <frame x="165" y="22" width="1073" height="743" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296875" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296875" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30185005" sideWeight="0.6736" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41091493" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24926972" sideWeight="0.6736" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30769232" sideWeight="0.5904" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4096" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32744783" sideWeight="0.50048685" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3264" sideWeight="0.49951315" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3264" sideWeight="0.49951315" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -523,43 +523,27 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="7" />
+      <option name="time" value="10" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/encoder.py">
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/uuidfield/fields.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="209" column="30" selection-start="7934" selection-end="7934" vertical-scroll-proportion="-0.028481012" vertical-offset="3144" max-vertical-offset="6810" />
+        <state line="51" column="30" selection-start="1610" selection-end="1610" vertical-scroll-proportion="-1.2891892" vertical-offset="1197" max-vertical-offset="2325">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gopp/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="20" selection-start="1411" selection-end="1415" vertical-scroll-proportion="0.0" vertical-offset="585" max-vertical-offset="1680">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/phonegame/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="572" />
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/Django-1.6.4-py2.7.egg/django/db/models/fields/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1068" column="6" selection-start="40692" selection-end="40692" vertical-scroll-proportion="0.33216783" vertical-offset="15455" max-vertical-offset="21285" />
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/Django-1.6.4-py2.7.egg/django/conf/urls/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="27" selection-start="2013" selection-end="2019" vertical-scroll-proportion="0.0" vertical-offset="569" max-vertical-offset="975" />
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/Django-1.6.4-py2.7.egg/django/contrib/admin/options.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="372" column="4" selection-start="15769" selection-end="15769" vertical-scroll-proportion="0.33333334" vertical-offset="4847" max-vertical-offset="25245" />
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/Django-1.6.4-py2.7.egg/django/utils/http.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-2.0704226" vertical-offset="735" max-vertical-offset="4005" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gopp/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="46" selection-start="292" selection-end="292" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
           <folding />
         </state>
       </provider>
@@ -571,14 +555,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gopp/__init__.py">
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/Django-1.6.4-py2.7.egg/django/contrib/admin/sites.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="368" />
+        <state line="233" column="31" selection-start="9458" selection-end="9458" vertical-scroll-proportion="0.5434174" vertical-offset="3076" max-vertical-offset="6645" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gopp/settings.py">
+    <entry file="file://$PROJECT_DIR$/phonegame/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="81" column="0" selection-start="2371" selection-end="2371" vertical-scroll-proportion="0.0" vertical-offset="1323" max-vertical-offset="1680">
+        <state line="4" column="26" selection-start="99" selection-end="99" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
           <folding />
         </state>
       </provider>
@@ -590,40 +574,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/phonegame/views.py">
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/Django-1.6.4-py2.7.egg/django/core/serializers/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="36" selection-start="158" selection-end="158" vertical-scroll-proportion="0.0" vertical-offset="20" max-vertical-offset="390">
+        <state line="115" column="4" selection-start="3326" selection-end="3326" vertical-scroll-proportion="0.33333334" vertical-offset="1574" max-vertical-offset="2265" />
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/Django-1.6.4-py2.7.egg/django/db/models/query.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="8" selection-start="967" selection-end="967" vertical-scroll-proportion="0.28196722" vertical-offset="169" max-vertical-offset="25815" />
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/Django-1.6.4-py2.7.egg/django/db/models/manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="131" column="8" selection-start="5090" selection-end="5090" vertical-scroll-proportion="0.33114755" vertical-offset="1774" max-vertical-offset="4245">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/phonegame/urls.py">
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/Django-1.6.4-py2.7.egg/django/core/handlers/base.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="72" selection-end="72" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
+        <state line="113" column="0" selection-start="4537" selection-end="4537" vertical-scroll-proportion="0.0" vertical-offset="1369" max-vertical-offset="4215">
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="192" column="4" selection-start="6967" selection-end="6967" vertical-scroll-proportion="0.33333334" vertical-offset="2759" max-vertical-offset="5340" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/phonegame/admin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="0" selection-start="812" selection-end="812" vertical-scroll-proportion="0.0" vertical-offset="185" max-vertical-offset="555">
-          <folding>
-            <element signature="e#54#86#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/uuidfield/fields.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="30" selection-start="1610" selection-end="1610" vertical-scroll-proportion="-1.2891892" vertical-offset="1197" max-vertical-offset="2325">
+        <state line="24" column="0" selection-start="812" selection-end="812" vertical-scroll-proportion="0.0" vertical-offset="13" max-vertical-offset="555">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/phonegame/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="28" selection-start="1171" selection-end="1171" vertical-scroll-proportion="0.7567568" vertical-offset="155" max-vertical-offset="525">
+        <state line="20" column="41" selection-start="695" selection-end="706" vertical-scroll-proportion="0.33333334" vertical-offset="194" max-vertical-offset="525">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gopp/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="20" selection-start="358" selection-end="358" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phonegame/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="22" selection-start="889" selection-end="889" vertical-scroll-proportion="0.4703833" vertical-offset="75" max-vertical-offset="1020">
+          <folding>
+            <element signature="e#54#89#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

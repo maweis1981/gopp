@@ -1,6 +1,9 @@
 from django.conf.urls import patterns, include, url
-
 from django.contrib import admin
+
+import phonegame
+from phonegame import urls
+
 admin.autodiscover()
 
 urlpatterns = patterns('',
@@ -9,5 +12,5 @@ urlpatterns = patterns('',
     # url(r'^blog/', include('blog.urls')),
 
     url(r'^admin/', include(admin.site.urls)),
-    url(r'^polls/', include('phonegame.urls')),
+    url(r'^phonegame/', include(phonegame.urls)),
 )
